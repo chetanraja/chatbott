@@ -86,7 +86,6 @@ Pint==0.9
 pkginfo==1.5.0.1
 plac==0.9.6
 pluggy==0.12.0
-poetry-version==1.0.9
 preshed==2.0.1
 profanity-filter==1.1.14
 prometheus-client==0.7.1
