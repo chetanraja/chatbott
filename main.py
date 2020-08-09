@@ -11,7 +11,7 @@ bot.set_trainer(ListTrainer)
 words = ['fuck','fuckoff','masturbate','bitch' ]
 a=(" profanity present in the sentence")
 app = Flask(__name__)
-@app.route('/')
+@app.route('/home')
 def index():
 	return render_template('index.html')
 @app.route('/process',methods=['GET','POST'])
