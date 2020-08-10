@@ -29,6 +29,6 @@ def process():
 	            
  return render_template('index.html',user_input=user_input,bot_response=bot_response)
 if __name__=='__main__':
-    app.run()
+    app.run(port=8000,threaded=True)
 
 		
