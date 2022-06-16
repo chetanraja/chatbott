@@ -71,7 +71,7 @@ murmurhash==1.0.2
 nbconvert==5.5.0
 nbformat==4.4.0
 nltk
-notebook==5.7.8
+notebook==6.4.12
 numpy==1.16.4
 oauthlib==3.0.1
 ordered-set==3.1.1
