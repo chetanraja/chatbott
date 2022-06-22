@@ -72,7 +72,7 @@ nbconvert==5.5.0
 nbformat==4.4.0
 nltk
 notebook==5.7.8
-numpy==1.16.4
+numpy==1.22.0
 oauthlib==3.0.1
 ordered-set==3.1.1
 ordered-set-stubs==0.1.3
